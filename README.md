@@ -10,7 +10,7 @@ I'm a Software Developer who currently works as a Junior Developer at [Oryx Afri
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Backend Engineer(Intern or Junior level).
+- 💼 Job interests: Software Engineer, Backend Engineer(Junior level).
 - 📫 You can contact me by emailing agbajeinioluwa@gmail.com.
 
 ---
